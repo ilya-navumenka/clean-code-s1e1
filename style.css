@@ -144,12 +144,12 @@
 
 .btn-delete__img {
   height: 2em;
-  transform: rotateZ(45deg);
+  transform: rotatez(45deg);
   transition: transform 200ms ease-in;
 }
 
 .btn-delete__img:hover {
-  transform: rotateZ(0);
+  transform: rotatez(0);
 }
 
 /* Completed */
