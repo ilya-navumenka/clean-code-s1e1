@@ -34,6 +34,10 @@
   margin: 0 auto 0;
 }
 
+#tasks-box__add-task {
+  margin: 16px 0;
+}
+
 .task-name,
 .task {
   width: 56%;
